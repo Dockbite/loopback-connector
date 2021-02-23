@@ -1,6 +1,6 @@
 {
-  "name": "loopback-connector",
-  "version": "4.9.0",
+  "name": "@dockbite/loopback-connector",
+  "version": "4.9.1",
   "description": "Building blocks for LoopBack connectors",
   "engines": {
     "node": ">=8.9"
